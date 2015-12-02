@@ -1,0 +1,17 @@
+{
+  "name": "lang-utils",
+  "version": "0.0.2",
+  "description": "丰富JS方法，提供类型时间格式化、判断、数组操作等方法",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tick",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  }
+}
