@@ -1,7 +1,6 @@
 {
   "name": "lang-utils",
-  "version": "0.0.3",
-  "_version": "0.0.3",
+  "version": "1.0.0",
   "description": "丰富JS方法，提供类型时间格式化、类型判断、数组操作等方法",
   "main": "index.js",
   "dependencies": {},
